@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+            @media only screen and (max-width: 600px) {
+
+
+                *{
+                    margin: 0;
+                    padding: 0;
+                   
+                  
+                }
+                
+                
+
+
+
+
+
+                body div .resim {
+
+                    width:90%;
+                }
+                
+
+            header div p.yazi1 {
+   
+                margin-left: 20%;
+            }
+
+
+            header div p.yazi2 {
+   
+                margin-right: 2%;
+            }
+
+
+            header div p.yazi3 {
+   
+                
+                margin-right: 10%;
+            }
+
+             body div.slider p.text1{
+
+              
+             
+             text-align: center;
+            
+
+             }
+
+             footer div p.tel{
+
+                margin-top: 40px;
+             }
+             footer div p.mail{
+
+                margin-left: 80px;
+             }
+
+
+
+
+            }
+

@@ -1,0 +1,216 @@
+
+header .container{
+
+    color: white;
+
+ font-weight: bold;
+
+}
+
+
+.banner {
+
+    width: 2020px;
+    height: 200px;
+    background-repeat: no-repeat;
+
+
+}
+.banner img{
+
+  width: 2020px;
+  height: 200px;
+}
+
+.banner h3.mami{
+
+     position: absolute;
+    font-size: 25px;
+    top: 170px;
+    margin-left: 275px;
+    color: white;
+
+}
+
+.banner h3.mami1{
+
+    position: absolute;
+    font-size: 25px;
+    margin-left: 250px;
+    color: white;
+    top: 210px;
+
+}
+
+.banner h3.mami2{
+
+    position: absolute;
+    font-size: 30px;
+    margin-left: 150px;
+    color: white;
+    top: 250px;
+
+}
+
+.liste {
+    width: 2020px;
+    height: 1050px;
+    background-color: whitesmoke;
+}
+
+
+.liste div {
+
+    width: 300px;
+}
+
+.arama nav.form{
+    margin: 4px;
+    width: 30px;
+    position: absolute;
+}
+
+.liste img.kanal{
+
+    margin-left: 750px;
+    margin-top: -890px;
+    border-radius: 5px;
+}
+
+.liste p.baslik{
+
+    margin-left: 850px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -260px;
+}
+
+.liste div .yazikutu p.yazi{
+     
+    text-align: center;
+     margin-left: 750px;
+    
+}
+
+.liste  div.yazikutu{
+
+    width: 800px;
+    height: 570px;
+    background-color:white;
+    position:absolute;
+    margin-left: 660px;
+    border-radius: 5px;
+}
+ 
+
+.orta {
+
+    width: 2020px;
+    height: 200px;
+    background-color: blue;
+}
+
+
+.orta p.buyuk{
+
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-left: 650px;
+     position: absolute;
+    margin-top: 65px;
+    
+}
+
+
+.orta p.kucuk{
+
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    margin-left: 580px;
+     position: absolute;
+    margin-top: 110px;
+    
+}
+
+.orta button{
+
+    margin-left: 1450px;
+    margin-top: 110px;
+    border-radius: 15px;
+}
+
+
+.haritaalt {
+
+    width: 250px;
+    height: 70px;
+}
+
+.haritaalt p.yaz1{
+
+    font-style: normal;
+    position: absolute;
+     text-align: center;
+     margin-left: 30px;
+     font-weight: bold;
+     margin-top: 20px;
+}
+
+
+
+
+
+.haritaalt p.yaz2{
+
+    font-style: normal;
+    margin-left: 850px;
+    position: absolute;
+     text-align: center;
+     font-weight: bold;
+     margin-top: 20px;
+}
+
+
+
+
+.haritaalt p.yaz3{
+
+    font-style: normal;
+    position: absolute;
+    text-align: center;
+    margin-left: 1660px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.bitis {
+
+    width: 2020px;
+    height: 100px;
+    background-color: rgb(42, 42, 221)
+}
+
+.bitis p.ayazi{
+
+    font-style: normal;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+    color: white;
+    margin-left: 700px;
+}
+
+.bitis p.byazi{
+
+    font-style: normal;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+    color: white;
+    margin-left: 1350px;
+}
